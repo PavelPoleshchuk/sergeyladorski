@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **React.js & Node.js at Yandex.Practicum**
 
 - 👨‍💻 All of my projects are available at   [![Github Badge](https://img.shields.io/badge/-sergeyladorski-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sergeyladorski/)](https://www.github.com/sergeyladorski/)
-- 	<!--- 📄 Know about my experiences [resume link](resume link) -->
+	<!--- 📄 Know about my experiences [resume link](resume link) -->
 
 
 
