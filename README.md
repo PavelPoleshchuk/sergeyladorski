@@ -11,7 +11,10 @@
 <p align='left'>Junior Web-Developer</p>  
 
 ## Some of my Github Stats
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=sergeyladorski&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/sergeyladorski/github-readme-stats)[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=sergeyladorski&layout=compact)](https://github.com/sergeyladorski/github-readme-stats)
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=sergeyladorski&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/sergeyladorski/github-readme-stats)  
+  
+
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=sergeyladorski&layout=compact)](https://github.com/sergeyladorski/github-readme-stats)
 
 
 #### Languages and Tools I code with
