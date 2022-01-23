@@ -6,11 +6,11 @@
 
 [![Github Badge](https://img.shields.io/badge/-sergeyladorski-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sergeyladorski/)](https://www.github.com/sergeyladorski/) 
 
-![Profile views](https://gpvc.arturio.dev/sergeyladorski)
+
 
 <p align='left'>Junior Web-Developer</p>
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=sergeyladorski alt=sergeyladorski /> </p>
+![Profile views](https://gpvc.arturio.dev/sergeyladorski)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&include_all_commits=true)](https://github.com/sergeyladorski/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeyladorski&layout=compact)](https://github.com/sergeyladorski/github-readme-stats)
