@@ -16,16 +16,7 @@
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=sergeyladorski&layout=compact)](https://github.com/sergeyladorski/github-readme-stats)
 
 
-dark,  tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&theme=dark)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&theme=onedark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&theme=cobalt)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&theme=synthwave)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&theme=highcontrast)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&bg_color=#575B6E)
 
 
 
