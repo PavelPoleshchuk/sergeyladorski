@@ -11,9 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sergeyladorski?tab=repositories](https://github.com/sergeyladorski?tab=repositories)
 
-	<!---
-- 📄 Know about my experiences [resume link](resume link)
--->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -88,4 +86,8 @@
 </p>  
 
 ------------
+
+	<!---
+- 📄 Know about my experiences [resume link](resume link)
+-->
 
