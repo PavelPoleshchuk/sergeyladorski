@@ -16,23 +16,12 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-sergeyladorski@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sergeyladorski@gmail.com)](mailto:sergeyladorski@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-sergeyladorski-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergeyladorski/)](https://www.linkedin.com/in/sergeyladorski/)
-<a href="https://instagram.com/sergey_ladorski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sergey_ladorski" height="30" width="40" /></a>
+[![Instagram Badge](https://img.shields.io/badge/-sergeyladorski-fbad50?style=flat&logo=Instagram&logoColor=white&link=https://https://instagram.com/sergey_ladorski)](https://instagram.com/sergey_ladorski)
 
 	
 
-<h3 align="left">Languages and Tools I code with</h3>
-
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-	
-	<img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"/>
-	<img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" alt="git" width="40px" height="40px" />
-	<img src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" alt="npm" width="40px" height="40px" />
-	<img src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" alt="Webpack" width="40px" height="40px" />
-	<img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" alt="Figma" width="40px" height="40px" />
-	
+<h3 align="left">Languages and Tools I code with</h3> 
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"/><img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" alt="git" width="40px" height="40px" /><img src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" alt="npm" width="40px" height="40px" /><img src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" alt="Webpack" width="40px" height="40px" /><img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" alt="Figma" width="40px" height="40px" /></p>	
 	
 	
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
