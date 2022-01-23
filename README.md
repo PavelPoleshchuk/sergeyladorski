@@ -12,7 +12,7 @@
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=sergeyladorski alt='Profile views' /> </p>
 
-([![Github stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&include_all_commits=true)](https://github.com/sergeyladorski/github-readme-stats) height="130" style="margin-right: 10px")
+[![Github stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&include_all_commits=true)](https://github.com/sergeyladorski/github-readme-stats)(height="130" style="margin-right: 10px")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeyladorski&layout=compact)](https://github.com/sergeyladorski/github-readme-stats)
 
 
