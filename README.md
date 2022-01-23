@@ -18,10 +18,10 @@
 
 #### Languages and Tools I code with
 <p>
-	<img alt="html5" src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" style="margin-right: 50px" width="30px" height="30px" />
-	<img alt="css3" src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" style="margin-right: 20px" width="30px" height="30px" />
-	<img alt="javascript" src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" style="margin-right: 20px" width="30px" height="30px" />
-	<img alt="React" src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" style="margin-right: 20px" width="30px" height="30px" /> 
+	<img alt="html5" src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" style="margin-right: 10px" width="30px" height="30px" />
+	<img alt="css3" src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" style="margin-right: 10px" width="30px" height="30px" />
+	<img alt="javascript" src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" style="margin-right: 10px" width="30px" height="30px" />
+	<img alt="React" src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" style="margin-right: 10px" width="30px" height="30px" /> 
 </p>  
 
 <p>
