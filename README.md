@@ -27,7 +27,7 @@
 
 <p>
 	<img alt="Figma" src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" width="20px" height="20px" /> 
-	<img alt="git" src="https://github.com/get-icon/geticon/blob/master/icons/git.svg" width="20px" height="20px" />  
+	<img alt="git" src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" width="20px" height="20px" />  
 	<img alt="npm" src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" width="20px" height="20px" />  
 	<img alt="Webpack" src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" width="20px" height="20px" />  
 </p>  
