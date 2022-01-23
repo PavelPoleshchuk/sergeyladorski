@@ -1,4 +1,6 @@
-## Hey 👋, my name is Sergey Ladorski
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>  
+
+<p>Welcome to my page! </br> I'm Sergey, web-developer from <img src="https://www.flaticon.com/free-icon/belarus_630589?term=belarus&page=1&position=8&page=1&position=8&related_id=630589&origin=search" width="13"/> <b>Zhlobin, Belarus</b>.</p>
 
 [![Gmail Badge](https://img.shields.io/badge/-sergeyladorski@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sergeyladorski@gmail.com)](mailto:sergeyladorski@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-sergeyladorski-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergeyladorski/)](https://www.linkedin.com/in/sergeyladorski/)
 [![Github Badge](https://img.shields.io/badge/-sergeyladorski-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sergeyladorski/)](https://www.github.com/sergeyladorski/) 
@@ -14,10 +16,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeyladorski&layout=compact)](https://github.com/sergeyladorski/github-readme-stats)
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
