@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>  
 
-<p>Welcome to my page! </br> I'm Sergey, web-developer from <img src="https://cdn-icons.flaticon.com/png/512/5315/premium/5315671.png" width="13"/> <b>Zhlobin, Belarus</b>.</p>
+<p>Welcome to my page! </br> I'm Sergey, web-developer from <img src="https://cdn-icons.flaticon.com/png/512/5315/premium/5315671.png?token=exp=1642942184~hmac=570f68e30cd022324e8fce8ceeb4ca64" width="13"/> <b>Zhlobin, Belarus</b>.</p>
 
 [![Gmail Badge](https://img.shields.io/badge/-sergeyladorski@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sergeyladorski@gmail.com)](mailto:sergeyladorski@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-sergeyladorski-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergeyladorski/)](https://www.linkedin.com/in/sergeyladorski/)
 [![Github Badge](https://img.shields.io/badge/-sergeyladorski-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sergeyladorski/)](https://www.github.com/sergeyladorski/) 
