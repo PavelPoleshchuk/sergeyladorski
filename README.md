@@ -4,8 +4,9 @@
 [![Github Badge](https://img.shields.io/badge/-sergeyladorski-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sergeyladorski/)](https://www.github.com/sergeyladorski/) 
 
 
-<p align='left'>Junior Web-Developer</p>
-## Some of my Github Stats  
+<p align='left'>Junior Web-Developer</p>  
+
+### Some of my Github Stats  
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=sergeyladorski alt='Profile views' /> </p>
 
