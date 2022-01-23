@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-sergeyladorski@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sergeyladorski@gmail.com)](mailto:sergeyladorski@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-sergeyladorski-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergeyladorski/)](https://www.linkedin.com/in/sergeyladorski/)
 [![Github Badge](https://img.shields.io/badge/-sergeyladorski-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sergeyladorski/)](https://www.github.com/sergeyladorski/)
-[![Instagram Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png://www.instagram.com/sergey_ladorski/)](https://www.instagram.com/sergey_ladorski/)
+[![Instagram Badge](https://img.shields.io/badge/-sergeyladorski-e95950?style=flat&logo=Instagram&logoColor=pink&link=https://www.instagram.com/sergey_ladorski/)](https://www.instagram.com/sergey_ladorski/)
 
 
 <p align='left'>Junior Web-Developer</p>  
