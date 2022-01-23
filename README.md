@@ -16,11 +16,10 @@
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=sergeyladorski&layout=compact)](https://github.com/sergeyladorski/github-readme-stats)
 
 
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+dark,  tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&theme=merko)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&theme=gruvbox)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&theme=onedark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&theme=cobalt)
