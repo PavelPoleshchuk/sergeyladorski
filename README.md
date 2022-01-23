@@ -23,7 +23,7 @@
 </p>  
 
 <p>
-	<img alt="Visual Studio Code" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" width="30px" height="30px" />   <img alt="Figma" src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" width="30px" height="30px" />   <img alt="git" src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" width="30px" height="30px" />   <img alt="npm" src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" width="30px" height="30px" />   <img alt="Webpack" src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" width="30px" height="30px" />  
+	<img alt="Visual Studio Code" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" width="30px" height="30px" />   <img alt="git" src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" width="30px" height="30px" />   <img alt="npm" src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" width="30px" height="30px" />   <img alt="Webpack" src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" width="30px" height="30px" />   <img alt="Figma" src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" width="30px" height="30px" />
 </p>  
 
 ------------
