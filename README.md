@@ -23,6 +23,9 @@
 	<img alt="javascript" src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" width="20px" height="20px" />  
 	<img alt="React" src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" width="20px" height="20px" />  
 	<img alt="Visual Studio Code" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" width="20px" height="20px" />
+</p>  
+
+<p>
 	<img alt="Figma" src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" width="20px" height="20px" /> 
 	<img alt="git" src="https://github.com/get-icon/geticon/blob/master/icons/git.svg" width="20px" height="20px" />  
 	<img alt="npm" src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" width="20px" height="20px" />  
