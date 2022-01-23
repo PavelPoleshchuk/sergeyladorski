@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeyladorski&label=Profile%20views&color=0e75b6&style=flat" alt="sergeyladorski" /> </p>
 
 
-- 🔭 I’m currently working on [![Mesto](./public/favicon.ico)](https://sergeyladorski.github.io/react-mesto-auth/)
+- 🔭 I’m currently working on [![Mesto]](https://sergeyladorski.github.io/react-mesto-auth/)
 
 - 🌱 I’m currently learning **React.js & Node.js at Yandex.Practicum**
 
