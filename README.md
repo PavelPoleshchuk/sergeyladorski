@@ -16,7 +16,7 @@
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=sergeyladorski&layout=compact)](https://github.com/sergeyladorski/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&bg_color=#575B6E)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&bg_color=575B6E)
 
 
 
