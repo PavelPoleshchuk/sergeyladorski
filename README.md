@@ -18,22 +18,18 @@
 
 <h3>Things I code with</h3>
 <p>
-	<img alt="html5" src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" />  
-	<img alt="css3" src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg />  
-	<img alt="javascript" src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg />  
-	<img alt="React" src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" />  
+	<img alt="html5" src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" width="20px" height="20px" />  
+	<img alt="css3" src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" width="20px" height="20px" />  
+	<img alt="javascript" src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" width="20px" height="20px" />  
+	<img alt="React" src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" width="20px" height="20px" />  
 		
-	<img alt="Visual Studio Code" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" />
-	<img alt="Figma" src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" /> 
-	<img alt="git" src="https://github.com/get-icon/geticon/blob/master/icons/git.svg" />  
-	<img alt="npm" src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" />  
-	<img alt="Webpack" src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" />  
+	<img alt="Visual Studio Code" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" width="20px" height="20px" />
+	<img alt="Figma" src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" width="20px" height="20px" /> 
+	<img alt="git" src="https://github.com/get-icon/geticon/blob/master/icons/git.svg" width="20px" height="20px" />  
+	<img alt="npm" src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" width="20px" height="20px" />  
+	<img alt="Webpack" src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" width="20px" height="20px" />  
 </p>  
 
 
-<p>Visit my Instagram <a href="https://www.instagram.com/sergey_ladorski/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> 1°C, <i>clear sky</i></b></br>Today, the sun rises at <b>08:17</b> and sets at <b>15:41</b>.</p>
-<h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
-
+<p>Visit my Instagram <a href="https://www.instagram.com/sergey_ladorski/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @sergey_ladorski!</a></p>
 ------------
