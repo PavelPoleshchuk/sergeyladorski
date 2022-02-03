@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeyladorski&label=Profile%20views&color=0e75b6&style=flat" alt="sergeyladorski" /> </p>
 
 
-- 🔭 I’m currently working on [[react-mesto-auth]](https://sergeyladorski.github.io/react-mesto-auth/)
+- 🔭 I’m currently working on [express-mesto](https://github.com/sergeyladorski/express-mesto)
 
-- 🌱 I’m currently learning **React.js & Node.js at Yandex.Practicum**
+- 🌱 I’m currently learning **Express.js, MongoDB & Node.js at Yandex.Practicum**
 
 - 👨‍💻 All of my projects are available at   [![Github Badge](https://img.shields.io/badge/-sergeyladorski-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sergeyladorski/)](https://www.github.com/sergeyladorski/)
 	<!--- 📄 Know about my experiences [resume link](resume link) -->
