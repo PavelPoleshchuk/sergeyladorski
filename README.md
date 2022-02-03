@@ -22,7 +22,26 @@
 	
 
 <h3 align="left">Languages and Tools I code with</h3> 
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"/> <img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" alt="git" width="40px" height="40px" /> <img src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" alt="npm" width="40px" height="40px" /> <img src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" alt="Webpack" width="40px" height="40px" /> <img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" alt="Figma" width="40px" height="40px" /></p>	
+<p>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>	
+	
+	<img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" alt="Figma" width="40px" height="40px" />
+	<img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"/>
+	
+	<img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" alt="git" width="40px" height="40px" />
+	<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40px" height="40px" />
+	
+	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40px" height="40px" />
+	<img src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" alt="npm" width="40px" height="40px" />
+	
+	<img src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" alt="Webpack" width="40px" height="40px" />
+	
+	<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js" width="40px" height="40px" />
+	<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40px" height="40px" />	
+</p>	
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&locale=en" alt="sergeyladorski" /></p>  
