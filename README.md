@@ -2,25 +2,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeyladorski&label=Profile%20views&color=0e75b6&style=flat" alt="sergeyladorski" /> </p>
 
-
 - 🔭 I’m currently working on [react-mesto-api-full](https://github.com/sergeyladorski/react-mesto-api-full)
+- 🌱 I’m currently studying at Yandex.Practicum
+- 👨‍💻 All my projects are available at   [![Github Badge](https://img.shields.io/badge/-sergeyladorski-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sergeyladorski/)](https://www.github.com/sergeyladorski/)
 
-- 🌱 I’m currently learning **Express.js, MongoDB & Node.js at Yandex.Practicum**
-
-- 👨‍💻 All of my projects are available at   [![Github Badge](https://img.shields.io/badge/-sergeyladorski-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sergeyladorski/)](https://www.github.com/sergeyladorski/)
-	<!--- 📄 Know about my experiences [resume link](resume link) -->
-
-
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-sergeyladorski@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sergeyladorski@gmail.com)](mailto:sergeyladorski@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-sergeyladorski-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergeyladorski/)](https://www.linkedin.com/in/sergeyladorski/)
 [![Instagram Badge](https://img.shields.io/badge/-sergeyladorski-bc2a8d?style=flat&logo=Instagram&logoColor=white&link=https://https://instagram.com/sergey_ladorski)](https://instagram.com/sergey_ladorski)
 
-
 ## 🛠  Technologies and tools
-
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 logo" title="HTML5" height="25" />
 &nbsp;
@@ -48,6 +40,7 @@
 &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" title="MongoDB" height="25" />
 </p>
+
 <!--- 
  ## 📖  What I am currently learning / improving on
 --->
@@ -60,8 +53,6 @@
 &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" title="Jest" height="25" />
 </p>
-
-
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true">
