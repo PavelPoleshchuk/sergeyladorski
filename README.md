@@ -52,7 +52,7 @@
  ## 📖  What I am currently learning / improving on
 --->
 
-## 👾  What I am interested in
+## 👾  What I am interested in learning
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript logo" title="TypeScript" height="25" />
 &nbsp;
@@ -64,9 +64,6 @@
 
 
 <div>
-	<p>
-		Progile stats
-	</p>
 <a href="https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true">
   <img height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=sergeyladorski&hide=contribs&show_icons=true" />
 </a>
