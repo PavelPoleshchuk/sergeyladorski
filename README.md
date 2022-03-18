@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on [react-mesto-api-full](https://github.com/sergeyladorski/react-mesto-api-full)
 - 🌱 I’m currently studying at Yandex.Practicum
-- 👨‍💻 All my projects are available at   [![Github Badge](https://img.shields.io/badge/-sergeyladorski-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sergeyladorski/)](https://www.github.com/sergeyladorski/)
 
 <h3 align="left">Contact me</h3>
 
@@ -45,7 +44,7 @@
  ## 📖  What I am currently learning / improving on
 --->
 
-## 👾  What I am interested in learning
+## 👨‍💻  What I am interested in learning
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript logo" title="TypeScript" height="25" />
 &nbsp;
