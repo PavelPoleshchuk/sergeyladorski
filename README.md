@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, I'm Sergey. I'm a frontend developer .</h1>  
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, I'm Sergey. I'm a frontend developer.</h1>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeyladorski&label=Profile%20views&color=0e75b6&style=flat" alt="sergeyladorski" /> </p>
 
