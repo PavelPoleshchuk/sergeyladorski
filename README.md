@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeyladorski&label=Profile%20views&color=0e75b6&style=flat" alt="sergeyladorski" /> </p>
 
 
-- 🔭 I’m currently working on [react-mesto-api-full](https://github.com/sergeyladorski/react-mesto-api-full)
+- 🔭 I’m currently working on `[react-mesto-api-full](https://github.com/sergeyladorski/react-mesto-api-full)`
 
 - 🌱 I’m currently learning **Express.js, MongoDB & Node.js at Yandex.Practicum**
 
@@ -38,8 +38,13 @@
 </p>	
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true&locale=en" alt="sergeyladorski" /></p>  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergeyladorski&show_icons=true&locale=en&layout=compact" alt="sergeyladorski" /></p>
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true">
+  <img height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=sergeyladorski&hide=contribs&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeyladorski&layout=compact">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeyladorski&layout=compact" />
+</a>
+</div>
 
 ------------
