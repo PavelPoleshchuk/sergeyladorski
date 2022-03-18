@@ -23,11 +23,11 @@
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 logo" title="HTML5" height="25" />
-
+&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 logo" title="CSS3" height="25" />
-
+&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" title="JavaScript" height="25" />
-
+&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React logo" title="React" height="25" />
 &nbsp;
 <img src="https://github.com/get-icon/geticon/blob/master/icons/eslint.svg" alt="ESLint logo" title="ESLint" height="25" />
@@ -47,7 +47,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js logo" title="Express.js" height="25" />
 &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" title="MongoDB" height="25" />
-<p>
+</p>
 <!--- 
  ## 📖  What I am currently learning / improving on
 --->
