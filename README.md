@@ -19,57 +19,44 @@
 [![Instagram Badge](https://img.shields.io/badge/-sergeyladorski-bc2a8d?style=flat&logo=Instagram&logoColor=white&link=https://https://instagram.com/sergey_ladorski)](https://instagram.com/sergey_ladorski)
 
 
-<h3 align="left">Languages and Tools I code with</h3> 
-<p>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>	
-	<img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" alt="Figma" width="40px" height="40px" />
-	<img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"/>
-	<img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" alt="git" width="40px" height="40px" />
-	<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40px" height="40px" />
-	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40px" height="40px" />
-	<img src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" alt="npm" width="40px" height="40px" />
-	<img src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" alt="Webpack" width="40px" height="40px" />
-	<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js" width="40px" height="40px" />
-	<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40px" height="40px" />	
-</p>	
-
-
 ## 🛠  Technologies and tools
 
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 logo" title="HTML5" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 logo" title="CSS3" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" title="JavaScript" height="25" />
 &nbsp;
-
-<img src="https://img.shields.io/badge/React%20-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React logo" title="React" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
+<img src="https://github.com/get-icon/geticon/blob/master/icons/eslint.svg" alt="ESLint logo" title="ESLint" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+<img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" alt="git logo" title="git" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+<img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
+<img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" alt="Figma logo" title="Figma" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
-<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js logo" title="Node.js" height="25" />
+&nbsp;
+<img src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" alt="NPM logo" title="NPM" height="25" />
+&nbsp;
+<img src="https://github.com/get-icon/geticon/blob/master/icons/webpack.svg" alt="Webpack logo" title="Webpack" height="25" />
+&nbsp;	
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js logo" title="Express.js" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" title="MongoDB" height="25" />
 &nbsp;
 <a name="learning-next"></a>
 
-## 📖  What I am currently learning / improving on
+// ## 📖  What I am currently learning / improving on
 ---
 
 ## 👾  What I am interested in learning at some point
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript logo" title="TypeScript" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux logo" title="Redux" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" title="Jest" height="25" />
 
 
 
