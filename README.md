@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeyladorski&label=Profile%20views&color=0e75b6&style=flat" alt="sergeyladorski" /> </p>
 
 - 🔭 I’m currently working on [react-mesto-api-full](https://github.com/sergeyladorski/react-mesto-api-full)
-- 🌱 I’m currently studying at Yandex.Practicum
+- 🌱 I’m currently studying at [Practicum.Yandex](https://practicum.yandex.com)
 
 <h3 align="left">Contact me</h3>
 
