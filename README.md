@@ -52,17 +52,21 @@
  ## 📖  What I am currently learning / improving on
 --->
 
-## 👾  What I am interested in learning at some point
+## 👾  What I am interested in
+<p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript logo" title="TypeScript" height="25" />
 &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux logo" title="Redux" height="25" />
 &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" title="Jest" height="25" />
-
+</p>
 
 
 
 <div>
+	<p>
+		Progile stats
+	</p>
 <a href="https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true">
   <img height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=sergeyladorski&hide=contribs&show_icons=true" />
 </a>
