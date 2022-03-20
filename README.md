@@ -17,6 +17,8 @@ My goals
 - ⚡ Освоить новые фреймворки
 - 💎 Хочу писать чистый читабельный код
 
+____________________________
+
  <!--- 
 - 🔭 I’m currently working on [react-mesto-api-full](https://github.com/sergeyladorski/react-mesto-api-full)
 - 🌱 I’m currently studying at [Practicum.Yandex](https://practicum.yandex.com/web)
