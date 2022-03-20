@@ -7,6 +7,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeyladorski&label=Profile%20views&color=0e75b6&style=flat" alt="sergeyladorski" /></p>
 
+## 🎯 Мои цели
+ <!--- 
+My goals
+--->
+- 🔥 Хочу научиться анализировать производительность и увеличивать её
+- 💻 Стремлюсь к работе с настоящими боевыми проектами
+- 🔧 Хочу работать с опытными коллегами
+- ⚡ Освоить новые фреймворки
+- 💎 Хочу писать чистый читабельный код
+
  <!--- 
 - 🔭 I’m currently working on [react-mesto-api-full](https://github.com/sergeyladorski/react-mesto-api-full)
 - 🌱 I’m currently studying at [Practicum.Yandex](https://practicum.yandex.com/web)
@@ -76,6 +86,10 @@ What I am interested in learning
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" title="Jest" height="25" />
 </p>
 
+### :trophy: Моя статистика:
+ <!--- 
+My stats
+--->
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true">
   <img height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=sergeyladorski&hide=contribs&show_icons=true" />
