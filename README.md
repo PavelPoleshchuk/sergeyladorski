@@ -1,17 +1,36 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, I'm Sergey. I'm a frontend developer.</h1>  
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+ <!--- 
+ Hey there, I'm Sergey. I'm a frontend developer.
+--->
+Привет всем, меня зовут Сергей. Я frontend-разработчик
+</h1>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeyladorski&label=Profile%20views&color=0e75b6&style=flat" alt="sergeyladorski" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeyladorski&label=Profile%20views&color=0e75b6&style=flat" alt="sergeyladorski" /></p>
 
+ <!--- 
 - 🔭 I’m currently working on [react-mesto-api-full](https://github.com/sergeyladorski/react-mesto-api-full)
 - 🌱 I’m currently studying at [Practicum.Yandex](https://practicum.yandex.com/web)
+--->
+- 🔭 В данный момент работаю над [react-mesto-api-full](https://github.com/sergeyladorski/react-mesto-api-full)
+- 🌱 Прохожу курс на [Practicum.Yandex](https://practicum.yandex.com/web)
 
-<h3 align="left">Contact me</h3>
+
+<h3 align="left">
+Мои контакты
+<!--- 
+ Contact me
+--->
+</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-sergeyladorski@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sergeyladorski@gmail.com)](mailto:sergeyladorski@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-sergeyladorski-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergeyladorski/)](https://www.linkedin.com/in/sergeyladorski/)
 [![Instagram Badge](https://img.shields.io/badge/-sergeyladorski-bc2a8d?style=flat&logo=Instagram&logoColor=white&link=https://https://instagram.com/sergey_ladorski)](https://instagram.com/sergey_ladorski)
 
-## 🛠  Technologies and tools
+## 🛠 Технологии и инструменты
+<!--- 
+Technologies and tools
+--->
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 logo" title="HTML5" height="25" />
 &nbsp;
@@ -44,7 +63,11 @@
  ## 📖  What I am currently learning / improving on
 --->
 
-## 👨‍💻  What I am interested in learning
+## 👨‍💻 В данный момент изучаю / улучшаю навыки
+ <!--- 
+What I am interested in learning
+--->
+
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript logo" title="TypeScript" height="25" />
 &nbsp;
