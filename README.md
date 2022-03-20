@@ -25,7 +25,7 @@ ____________________________
 --->
 - 🔭 В данный момент работаю над [react-mesto-api-full](https://github.com/sergeyladorski/react-mesto-api-full)
 - 🌱 Прохожу курс на [Practicum.Yandex](https://practicum.yandex.com/web)
-
+____________________________
 
 <h3 align="left">
 Мои контакты
