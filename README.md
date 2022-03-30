@@ -23,7 +23,8 @@ ____________________________
 - 🔭 I’m currently working on [react-mesto-api-full](https://github.com/sergeyladorski/react-mesto-api-full)
 - 🌱 I’m currently studying at [Practicum.Yandex](https://practicum.yandex.com/web)
 --->
-- 🔭 В данный момент работаю над [react-mesto-api-full](https://github.com/sergeyladorski/react-mesto-api-full)
+- 🔭 В данный момент работаю над [movies-explorer-frontend](https://github.com/sergeyladorski/movies-explorer-frontend)
+и [movies-explorer-api](https://github.com/sergeyladorski/movies-explorer-api)
 - 🌱 Прохожу курс на [Practicum.Yandex](https://practicum.yandex.com/web)
 ____________________________
 
