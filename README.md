@@ -37,7 +37,7 @@ ____________________________
 
 [![Gmail Badge](https://img.shields.io/badge/-sergeyladorski@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sergeyladorski@gmail.com)](mailto:sergeyladorski@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-sergeyladorski-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergeyladorski/)](https://www.linkedin.com/in/sergeyladorski/)
-[![Instagram Badge](https://img.shields.io/badge/-sergeyladorski-bc2a8d?style=flat&logo=Instagram&logoColor=white&link=https://https://instagram.com/sergey_ladorski)](https://instagram.com/sergey_ladorski)
+[![Instagram Badge](https://img.shields.io/badge/-sergeyladorski-bc2a8d?style=flat&logo=Instagram&logoColor=white&link=https://https://instagram.com/sergeyladorski)](https://instagram.com/sergeyladorski)
 
 ## 🛠 Технологии и инструменты
 <!--- 
