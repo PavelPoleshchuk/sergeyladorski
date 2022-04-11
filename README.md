@@ -28,12 +28,11 @@ ____________________________
 - 🌱 Прохожу курс на [Practicum.Yandex](https://practicum.yandex.com/web)
 ____________________________
 
-<h3 align="left">
+## 🤳
 Мои контакты
 <!--- 
  Contact me
 --->
-</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-sergeyladorski@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sergeyladorski@gmail.com)](mailto:sergeyladorski@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-sergeyladorski-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergeyladorski/)](https://www.linkedin.com/in/sergeyladorski/)
@@ -89,7 +88,7 @@ What I am interested in learning
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" title="Jest" height="25" />
 </p>
 
-### :trophy: Моя статистика:
+### 🏆 Моя статистика:
  <!--- 
 My stats
 --->
