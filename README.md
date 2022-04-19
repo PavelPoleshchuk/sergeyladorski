@@ -1,46 +1,33 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
- <!--- 
- Hey there, I'm Sergey. I'm a frontend developer.
---->
-Привет всем, меня зовут Сергей. Я frontend-разработчик
+Hey there, I'm Sergey. I'm a frontend developer.
 </h1>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeyladorski&label=Profile%20views&color=0e75b6&style=flat" alt="sergeyladorski" /></p>
 
-## 🎯 Мои цели
- <!--- 
-My goals
---->
-- 🔥 Хочу научиться анализировать производительность и увеличивать её
-- 💻 Стремлюсь к работе с настоящими боевыми проектами
-- 🔧 Хочу работать с опытными коллегами
-- ⚡ Освоить новые фреймворки
-- 💎 Хочу писать чистый читабельный код
+## 🎯 My goals
+
+- 🔥 Learn how to analyze productivity and increase it
+- 💻 Deal with real projects
+- 🔧 Work with experienced colleagues
+- ⚡ Learn new tools
+- 💎 Write clean readable code
 
 ____________________________
 
+- 🔭 I’m currently working on [movies-explorer-frontend](https://github.com/sergeyladorski/movies-explorer-frontend)
+and [movies-explorer-api](https://github.com/sergeyladorski/movies-explorer-api)
  <!--- 
-- 🔭 I’m currently working on [react-mesto-api-full](https://github.com/sergeyladorski/react-mesto-api-full)
-- 🌱 I’m currently studying at [Practicum.Yandex](https://practicum.yandex.com/web)
---->
-- 🔭 В данный момент работаю над [movies-explorer-frontend](https://github.com/sergeyladorski/movies-explorer-frontend)
-и [movies-explorer-api](https://github.com/sergeyladorski/movies-explorer-api)
-- 🌱 Прохожу курс на [Practicum.Yandex](https://practicum.yandex.com/web)
+- 🌱 
+- --->
 ____________________________
 
-## 📱 Мои контакты
-<!--- 
- Contact me
---->
+## 📱 Contact me
 
 [![Gmail Badge](https://img.shields.io/badge/-sergeyladorski@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sergeyladorski@gmail.com)](mailto:sergeyladorski@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-sergeyladorski-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergeyladorski/)](https://www.linkedin.com/in/sergeyladorski/)
 [![Instagram Badge](https://img.shields.io/badge/-sergeyladorski-bc2a8d?style=flat&logo=Instagram&logoColor=white&link=https://https://instagram.com/sergeyladorski)](https://instagram.com/sergeyladorski)
 
-## 🛠 Технологии и инструменты
-<!--- 
-Technologies and tools
---->
+## 🛠 Technologies and tools
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 logo" title="HTML5" height="25" />
@@ -74,10 +61,7 @@ Technologies and tools
  ## 📖  What I am currently learning / improving on
 --->
 
-## 👨‍💻 В данный момент изучаю / улучшаю навыки
- <!--- 
-What I am interested in learning
---->
+## 👨‍💻 What I am interested in learning
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript logo" title="TypeScript" height="25" />
@@ -87,10 +71,8 @@ What I am interested in learning
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" title="Jest" height="25" />
 </p>
 
-### 🏆 Моя статистика:
- <!--- 
-My stats
---->
+### 🏆 My stats
+
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true">
   <img height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=sergeyladorski&hide=contribs&show_icons=true" />
