@@ -2,7 +2,7 @@
 Hey there, I'm Sergey. I'm a frontend developer.
 </h1>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeyladorski&label=Profile%20views&color=0e75b6&style=flat" alt="sergeyladorski" /></p>
+<img src="https://komarev.com/ghpvc/?username=sergeyladorski&label=Profile%20views&color=0e75b6&style=flat" alt="sergeyladorski" />
 
 ## 🎯 My goals
 
