@@ -14,8 +14,7 @@ Hey there, I'm Sergey. I'm a frontend developer.
 
 ____________________________
 
-- 🔭 I’m currently working on [movies-explorer-frontend](https://github.com/sergeyladorski/movies-explorer-frontend)
-and [movies-explorer-api](https://github.com/sergeyladorski/movies-explorer-api)
+- 🔭 I’m currently studying at [RS School](https://rollingscopes.com)
  <!--- 
 - 🌱 
 - --->
