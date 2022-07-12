@@ -1,20 +1,19 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-Hey there, I'm Sergey. I'm a frontend developer.
-</h1>  
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+# Hey there! I'm Sergey. I'm a frontend developer.
 
 <img src="https://komarev.com/ghpvc/?username=sergeyladorski&label=Profile%20views&color=0e75b6&style=flat" alt="sergeyladorski" />
 
 ## 🎯 My goals
 
-- 🔥 Learn how to analyze productivity and increase it
+- 🔥 Learn to analyze productivity and increase it
 - 💻 Deal with real projects
 - 🔧 Work with experienced colleagues
-- ⚡ Learn new tools
+- ⚡ Learn new technology && tools
 - 💎 Write clean readable code
 
 ____________________________
 
-- 🔭 I’m currently studying at [RS School](https://rollingscopes.com)
+- 🔭 I’m currently taking cources at [RS School](https://rollingscopes.com)
  <!--- 
 - 🌱 
 - --->
