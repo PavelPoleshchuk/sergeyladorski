@@ -9,7 +9,7 @@ Hey there! I'm Sergey. I'm a frontend developer.
 - 🔥 Learn to analyze productivity and increase it
 - 💻 Deal with real projects
 - 🔧 Work with experienced colleagues
-- ⚡ Learn new technology && tools
+- ⚡ Learn new technology & tools
 - 💎 Write clean readable code
 
 ____________________________
@@ -57,7 +57,7 @@ ____________________________
 </p>
 
 <!--- 
- ## 📖  What I am currently learning / improving on
+ ## 📖
 --->
 
 ## 👨‍💻 What I am interested in learning
