@@ -15,9 +15,6 @@ Hey there! I'm Sergey. I'm a frontend developer.
 ____________________________
 
 - 🔭 I’m currently taking cources at [RS School](https://rollingscopes.com)
- <!--- 
-- 🌱 
-- --->
 ____________________________
 
 ## 📱 Contact me
@@ -70,7 +67,7 @@ ____________________________
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" title="Jest" height="25" />
 </p>
 
-### 🏆 My stats
+## 🏆 My stats
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=sergeyladorski&show_icons=true">
@@ -80,5 +77,10 @@ ____________________________
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeyladorski&layout=compact" />
 </a>
 </div>
+
+
+## 🌱 Codewars stats:
+
+[![Codewarrior Profile Badges](https://www.codewars.com/users/sergeyladorski/badges/large)](https://www.codewars.com/users/sergeyladorski)
 
 ------------
