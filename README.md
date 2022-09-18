@@ -81,6 +81,6 @@ ____________________________
 
 ## 🌱 Codewars stats:
 
-[![Codewarrior Profile Badges](https://www.codewars.com/users/sergeyladorski/badges/large)](https://www.codewars.com/users/sergeyladorski)
+[![Codewarrior Profile Badges](https://www.codewars.com/users/rsschool_e9336dc8940156db/badges/large)](https://www.codewars.com/users/rsschool_e9336dc8940156db)
 
 ------------
