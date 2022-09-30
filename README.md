@@ -6,11 +6,12 @@ Hey there! I'm Sergey. I'm a frontend developer.
 
 ## 🎯 My goals
 
-- 🔥 Learn to analyze productivity and increase it
-- 💻 Deal with real projects
-- 🔧 Work with experienced colleagues
-- ⚡ Learn new technology & tools
-- 💎 Write clean readable code
+- ⚡ Learn new technology & tools  
+- 💎 Write clean readable code  
+- 💻 Deal with real projects  
+- 🔧 Work with experienced colleagues  
+- 🔥 Learn to analyze productivity and increase it  
+
 
 ____________________________
 
@@ -21,7 +22,6 @@ ____________________________
 
 [![Gmail Badge](https://img.shields.io/badge/-sergeyladorski@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sergeyladorski@gmail.com)](mailto:sergeyladorski@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-sergeyladorski-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergeyladorski/)](https://www.linkedin.com/in/sergeyladorski/)
-[![Instagram Badge](https://img.shields.io/badge/-sergeyladorski-bc2a8d?style=flat&logo=Instagram&logoColor=white&link=https://https://instagram.com/sergeyladorski)](https://instagram.com/sergeyladorski)
 
 ## 🛠 Technologies and tools
 
@@ -29,6 +29,8 @@ ____________________________
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 logo" title="HTML5" height="25" />
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 logo" title="CSS3" height="25" />
+&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS logo" title="SASS" height="25" />
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" title="JavaScript" height="25" />
 &nbsp;
